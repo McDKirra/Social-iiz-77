@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.9.1",
+    "libraryName": "social-iiz-77",
+    "libraryId": "a357c818-fd38-42a0-b454-856422499f4b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Social-iiz-77",
+    "componentType": "webpart",
+    "framework": "react",
+    "componentName": "Social-iiz-77",
+    "componentDescription": "Social-iiz-77 web part v7",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false
+  }
+}
